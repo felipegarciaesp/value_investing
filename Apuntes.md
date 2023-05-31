@@ -1,5 +1,4 @@
-# Clase 1
-## Inversión y Mercados Financieros
+# Clase 1 - Inversión y Mercados Financieros
 
 El pequeño libro que le gana al mercado.
 
@@ -8,3 +7,12 @@ El pequeño libro que le gana al mercado.
 **Mercado Financiero:** Corresponde al lugar de intercambio de dinero, cuyo precio es la **tasa de interés.** Personas y empresas ahorran en el mercado de capitales por medio de difernetes instrumentos financieros: depósitos a plazo, bonos, fondos mutuos y acciones.
 
 Las acciones no generan intereses, los créditos sí.
+
+Activos : maquinaria, inmuebles, terrenos, efectivo, etc.
+Pasivos: créditos.
+Patrimonio: acciones.
+
+La empresa debe pagar primero a sus acreedores y luego a sus accionistas.
+
+Motivo para estar listado en bolsa: tener acceso barato a financiamiento.
+El mercado premia a las empresas que entregan más información.
