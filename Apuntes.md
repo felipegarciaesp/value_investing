@@ -57,4 +57,44 @@ Patrimonio = Capital + Utilidades
 
 Utilidades = Utilidades en Eejercicio - Dividendos
 
-El principio de partida doble siempre se debe cumplir.
+El principio de partida doble siempre se debe cumplir. 
+
+Siempre cuando hay un aumento o disminución en pasivo o patrimonio debe haber un aumentoo disminución en alguna cuenta de los activos. Siempre que hay un activo, hay un pasivo que lo está respaldando. Siempre que hay un nuevo pasivo, hay un activo que lo está justificando.
+
+Los activos se categorizan según su liquidez, del más líquido al menos líquido.
+
+**Activos Corrientes** : se venden, covnierten o consumen en menos de un año. 
+**Activos No Corrientes**: no se esperan vender ni liquidar. Generalmente producen otros activos.
+
+Los pasivos se categorizan según su compromiso de pago, del que vence antes al que vence más tarde.
+
+**Pasivos Corrientes**: obligaciones exigidas en menos de un año.
+**Pasivos No Corrientes**: obligaciones exigidas en los próximos años.
+**Patrimonio**: no es exigible, no tiene fecha de pago ni vencimiento.
+
+Las empresas chilenas que transan en bolsa tienen la obligación de repartir el 30% de sus utilidades realizadas como dividendos.
+
+**Estado de Resultados**: es el resumen de ingresos y gastos en un período, muestra eñ desempeño financiero de la empresa y da como resultado la utilidad.
+
+**Principio de devengado**: todo lo que se ve en el Estado de Resultados se basa en este principio. El principio de devengado significa que los ingresos y gastos se registran al momento de ser realizados, independiente del momento en que se desembolse el dinero líquido.
+
+Si el **Balance General** es la piscina, el **Estado de Resultados** es la manguera que va inyectando agua a todas las cuentas. Acá no se toma la foto de un momento, sino que se toma el acumulado de un tiempo determinado (1 trimestre, 2 trimestres, 1 año, etc.). El **Estado de Resultados** muestra el acumulado de un determinado período y el **Balance General** es una foto del momento.
+
+La **depreciación** es un gasto que se registra en el **EERR** (menos patrimonio). Corresponde al desgaste de los activos debido al paso del tiempo. La **depreciación** afecta a los activos y se debe registrar en cada período.
+
+Las utilidades **no signifcan (necesariamente)** dinero líquido. El 30% legal a repartir en dividendos se calcula sobre las utilidades líquidas, no sobre la utilidad contable. **Ojo con esto.**
+
+## Estado de Flujo de Efectivo
+
+Corresponde a otro informe que se publica.
+
+**Capital de trabajo**: cuántos son los recursos que la compañia necesita tener en el corto plazo para responder a sus obligaciones. Es la capacidad de la compañía de cumplir con sus obligaciones de corto plazo con activos de corto plazo. Es lo que la empresa debiese tener provisionado. Este indicador nos va a hablar de la solvencia. Representa de manera fidedigna los ingresos y egresos de la compañía.
+
+Capital de Trabajo = Activos Corrientes - Pasivos Corrientes 
+
+Si en el **EERR** veo los gastos e ingresos devengados, en este informe veo las salidas e ingresos de liquidez. Es el reporte más fidedigno para saber cuánto dinero tiene la compañía en caja.
+
+El flujo de caja es vital es una empresa: los pagos a proveedores, los sueldos de empleados, los servicios básicos se pagan con dinero efectivo, no con dinero devengado.
+
+
+
