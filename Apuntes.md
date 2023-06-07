@@ -110,5 +110,13 @@ Las Ganacias Devengadas - Pago de Dividendos aterrizan en el BG en el ítem de P
 
 # Clase 3 - Análisis Financiero
 
+Recomendaciones:
 
+- Comparar la empresa consigo misma en el tiempo (10 años de info, al menos)
+- Comparar la empresa con empresas de la misma industria.
+- Comparar la empresa con empresas de otras industrias.
+
+Hay items en el BG cuya importancia es común en las industrias, la clave es encontrar cuales son estas particularidades de cada industria.
+
+Para poder entender el desempeño y evolución de una compañia en el tiempo, se deben ocupar indicadores financieros. El **análisis financiero** es la tecnica que agrupa indices de **liquidez, endeudamiento, actividad y rentabilidad de las empresas.** Hay que tener mucho cuidado con las cuentas que relacionamos, para no sacar conclusiones erróneas.
 
