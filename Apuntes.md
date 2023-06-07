@@ -96,5 +96,19 @@ Si en el **EERR** veo los gastos e ingresos devengados, en este informe veo las 
 
 El flujo de caja es vital es una empresa: los pagos a proveedores, los sueldos de empleados, los servicios básicos se pagan con dinero efectivo, no con dinero devengado.
 
+¿Como se estructura este reporte? Hay 3 tipos de movimientos de efectivo:
+
+* Flujos de Actividades Operacionales -> cobranza de ventas y de cuentas por cobrar; y pagos a proveedores, sueldos de empleados, impuestos e intereses de deuda. (**Capacidad de activos de generar flujos**) **Ingresos por cobros - Salidas por obligaciones**
+
+* Flujos de Actividades de Inversión -> inversiones de la compañía en maquinaria, infraestructura, e inversiones en empresas relacionadas. (**Lo necesario a invertir para cubrir desgaste de activos**)
+
+* Flujos de Actividades de Financiamiento -> adquirir obligaciones con terceros (**deuda**) o con los acionistas (**aumentos de capital**) para financiar inversiones. (**Disminuciones de estos flujos ocurren por pagos de dividendos o anticipos de deudas**).
+
+Al final de este reporte aparece un **saldo en efectivo**. Representa el monto del Balance General que dice **Efectivo y equivalentes al efectivo**. Esto va a ser exacto.
+
+Las Ganacias Devengadas - Pago de Dividendos aterrizan en el BG en el ítem de Patrimonio. A veces no va a calzar directamente, por un tema de repartición de dividendos en el año anterior.
+
+# Clase 3 - Análisis Financiero
+
 
 
