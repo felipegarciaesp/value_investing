@@ -116,7 +116,65 @@ Recomendaciones:
 - Comparar la empresa con empresas de la misma industria.
 - Comparar la empresa con empresas de otras industrias.
 
-Hay items en el BG cuya importancia es común en las industrias, la clave es encontrar cuales son estas particularidades de cada industria.
+Hay items en el BG cuya importancia es común en las industrias, la clave es encontrar cuales son estas particularidades de cada industria. Este es el primer desafío para hacer un correcto análisis financiero.
+
+Para buscar información de una empresa en la red, buscar en Google: "empresa" relación con inversionistas o "empresa" investor relation (en inglés). El primer link debiesen ser los estados financieros de la compañia.
+
+Queremos saber como se comportará la empresa enel futuro.
 
 Para poder entender el desempeño y evolución de una compañia en el tiempo, se deben ocupar indicadores financieros. El **análisis financiero** es la tecnica que agrupa indices de **liquidez, endeudamiento, actividad y rentabilidad de las empresas.** Hay que tener mucho cuidado con las cuentas que relacionamos, para no sacar conclusiones erróneas.
 
+Es importante que las cuentas que relacionemos tengan algún tipo de causa/consecuencia que tenga sentido.
+
+## Ratios de Liquidez
+
+Miden la capacidad (activos) que tiene la compañía para cubirir sus obligaciones (pasivos) de corto plazo.
+
+Mientras más complejo el activo, menos líquido puede llegar a ser (noes lo mismo vender un avión que un camión).
+
+**Capital de Trabajo** -> Si es positivo, significa que está en buenas condiciones para enfrentar obligaciones de corto plazo. Si es negativo, significa que podría necesitar financiamiento para enfrentar sus obligaciones de corto plazo. 
+
+**Razón Corriente** -> Es el cuociente entre activos corrientes y pasivos corrientes. **Es lo que más se ocupa para medir la solvencia a corto plazo.** Este ratio es un obligado de realizar en el análisis financiero.
+    Si es = 1, con sus activos corrientes podría cubrir sus obligaciones de corto plazo **(solvente)**. 
+    Si es < 1, no podría cubrir sus obligaciones de corto plazo con sus activos corrientes **(menos solvente)**. Es propenso a endeudarse.
+    Si es > 1, podría cubrir más de una vez sus obligaciones de corto plazo con sus activos corrientes **(más solvente)**.
+
+
+**Test Ácido** -> Se calcula: (Activo Circulante - Inventarios) / Pasivo Circulante. Esto es una Razón Corriente más exigente. Si se cumple con esto, se pasa la prueba de la solvencia.
+
+## Ratios de Endeudamiento
+
+Miden el peso que tienen los acreedores sobre los activos de la compañía. Muestran cómo la compañía financia sus activos. Recordar: activos son derechos, pasivos son obligaciones.
+
+Los flujos que genera una compañía se reparten entre acreedores y accionistas (los que tienen derecho sobre los activos).
+
+Mientras más deuda tenga una empresa, mayor flujo comprometido para los acreedores.
+
+También significa que los accionistas deben poner menos dinero para financiar las operaciones.
+
+La deuda no es mala por definición, la clave es llegar a un equilibrio.
+
+**Ratio Deuda a Patrimonio** -> Es el cuociente entre la deuda adquirida con terceros y el patrimonio de los accionistas
+    Mientras mayor sea este número, mayor será el trozo de la torta que se llevarán los acreedores.
+    Se mide en veces. Si es igual a 2, significa que por **cada $1 que ponen los accionistas, los acreedores ponen $2.**
+
+
+**Ratio Cobertura de Intereses** -> Se define como EBIT (Earnings Before Interest and Taxes) / Gasto Financiero directamente desde el Estado de Resultados. También se mide en veces. Este indicador habla no solamente del tamaño de la mochila que tiene la empresa en la espalda, sino que también habla de la capacidad de la espalda para sostener el peso de la mochila.
+    -**= 1**: todo el flujo que genera se va a los acreedores y deja en riesgo a la empresa frente al alza de interés.
+    -**< 1**: el flujo que genera la empresa no alcanza a cubrir sus obligaciones financieras. **Si esto se prolonga, puede caer en default, reorganización judicial o la quiebra**.
+    -**> 1**: el flujo que generan sus activos permiten a la empresa cubrir sus obligaciones financieras. **Mientras más alto este ratio, mejor aún**.
+
+## Ratios de Actividad
+
+Miden la **eficiencia** con la que la compañía utiliza sus recursos (activos).
+
+**Rotación de Cuentas por Cobrar** -> muestra que tan eficiente es el cobro de las cuentas por cobrar. Se define como **Ventas / Cuentas por Cobrar**. Las Ventas salen del Estado de Resultados, las Cuentas por Cobrar salen del Balance General.
+    - Mientras más alto este indicador, más eficiente es la compañía en cobrar obligaciones de sus clientes.
+
+**Rotación de Inventarios** -> muestra que tan rápido rota el inventario. Se define como **Costo de Ventas / Inventarios**. Costo de almacenaje en bodega es muy importante en el retail.
+    - Mientras mayor sea este indicador, **menos tiempo pasan los inventarios en bodegas** -> más eficiencia.
+
+**Rotación de Activos** -> relaciona el nivel de ventas con el nivel de activos. Se calcula como **Ventas / Activos**.
+    - Si aumentan las ventas, aumentarán los activos (más ventas -> más cuentas por cobrar -> más inventarios)
+
+## Ratios de Rentabilidad
