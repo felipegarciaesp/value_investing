@@ -130,7 +130,7 @@ Es importante que las cuentas que relacionemos tengan algún tipo de causa/conse
 
 Miden la capacidad (activos) que tiene la compañía para cubirir sus obligaciones (pasivos) de corto plazo.
 
-Mientras más complejo el activo, menos líquido puede llegar a ser (noes lo mismo vender un avión que un camión).
+Mientras más complejo el activo, menos líquido puede llegar a ser (no es lo mismo vender un avión que un camión).
 
 **Capital de Trabajo** -> Si es positivo, significa que está en buenas condiciones para enfrentar obligaciones de corto plazo. Si es negativo, significa que podría necesitar financiamiento para enfrentar sus obligaciones de corto plazo. 
 
@@ -159,7 +159,7 @@ La deuda no es mala por definición, la clave es llegar a un equilibrio.
     Se mide en veces. Si es igual a 2, significa que por **cada $1 que ponen los accionistas, los acreedores ponen $2.**
 
 
-**Ratio Cobertura de Intereses** -> Se define como EBIT (Earnings Before Interest and Taxes) / Gasto Financiero directamente desde el Estado de Resultados. También se mide en veces. Este indicador habla no solamente del tamaño de la mochila que tiene la empresa en la espalda, sino que también habla de la capacidad de la espalda para sostener el peso de la mochila.
+**Ratio Cobertura de Intereses** -> Se define como **EBIT (Earnings Before Interest and Taxes) / Gasto Financiero** directamente desde el Estado de Resultados. También se mide en veces. Este indicador habla no solamente del tamaño de la mochila que tiene la empresa en la espalda, sino que también habla de la capacidad de la espalda para sostener el peso de la mochila.
     -**= 1**: todo el flujo que genera se va a los acreedores y deja en riesgo a la empresa frente al alza de interés.
     -**< 1**: el flujo que genera la empresa no alcanza a cubrir sus obligaciones financieras. **Si esto se prolonga, puede caer en default, reorganización judicial o la quiebra**.
     -**> 1**: el flujo que generan sus activos permiten a la empresa cubrir sus obligaciones financieras. **Mientras más alto este ratio, mejor aún**.
@@ -178,3 +178,27 @@ Miden la **eficiencia** con la que la compañía utiliza sus recursos (activos).
     - Si aumentan las ventas, aumentarán los activos (más ventas -> más cuentas por cobrar -> más inventarios)
 
 ## Ratios de Rentabilidad
+
+La **rentabilidad** es la consecuencia final de una serie de decisiones tomadas por la dirección de una compañia (gestión de costos, gastos, ventas, incentivos, etc.). Es lo que le interesa ver al inversionista, ya que se verá cuánto va quedando para tener ganancias.
+
+**Margen Bruto** -> muestra valor agregado de los productos que vende la compañía. Se define: **(Ventas - Costo de Ventas) / Ventas** Todas estas cuentas están en el EERR, son las primeras 3 que aparecen. Este indicador es bueno para ver la capacidad de generar valor agregado de la compañía. Mientras mayor sea este índice, mayor valor agregado tienen los productos que vende.
+    - Si es igual a 60%, significa que a la empresa le cuesta $4 producir un producto que vende a $10.
+
+**Margen Operativo** -> muestra que % de las ventas quedan luego de costear la operación del negocio. Se define: **Ganancia Operacional (EBIT) / Ventas**. El EBIT se obtiene de restar a las ventas los costos de producir estas ventas (administración, marketing, sueldos, etc.).
+    - Mientras mayor sea el indicador, **más dinero queda después de costear la operación**.
+
+**Margen Neto** -> muestra el % de las ventas que queda para los dueños. Se calcula: **Utilidad del Ejercicio (Ganancia Neta) / Ventas**. Como toma la Utilidad del Ejercicio, ya se pagaron a los acreedores, al fisco, todo lo desgranado ya se pagó, esto es el remanente que queda para los accionistas. 
+    - Si el indicador = 2%, significa que **al vender un producto en $100. sólo quedan $2 para los dueños**
+
+**ROA** -> muestra la capacidad que tienen los activos para generar flujos sin tocar los aspectos relacionados con el apalancamiento (ni los impuestos). Se define: **EBIT / Activos**. Nos podemos hacer una idea realista de cuánto podría generar la compañía en resultados operativos. Se puede definir como "cuánta carne le podemos sacar a los activos con el EBIT que generamos".
+    - Si históricamente ROA = 5%, significa que con activos de $10.000 no deberíamos esperar EBIT mayor a $500 **(se supone)**.
+
+**ROE** -> muestra el retorno que reciben los accionistas por los recursos que tienen en la empresa. Se define: **Utilidad del Ejercicio (Ganacia Neta) / Patrimonio**. El concepto que hay detrás de este índica es ver cuánto vamos a ganar.
+    - Debe ser comparada con el costo de oportunidad de cada inversor.
+    - Se puede relacionar con el ratio **Precio / Utilidad** ó también llamado **PER** (Price to Earnings Ratio, ó Ratio Precio-Utilidad)
+        * Un P/U Ratio = 8 veces significa $1 de utilidad y la acción vale $8, es decir, **rentabilidad anual = 12,5%**.
+    - Para calcular el ROE, la empresa DuPont creó en Análisis Dupont:  **ROE = (Utilidades / Ventas) * (Ventas / Activos) * (Activos / Patrimonio)** , que es igual a: **ROE = Margen Neto * Rotación Activos * Leverage**
+
+Es importante saber como se comportan las empresas cuando hay adquisiciones y/o fusiones, podrían tener algún impacto en el desempeño de la empresa.
+
+Leverage = Apalancamiento
