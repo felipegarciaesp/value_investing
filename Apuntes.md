@@ -55,7 +55,7 @@ Activos = Pasivos + Patrimonio
 
 Patrimonio = Capital + Utilidades
 
-Utilidades = Utilidades en Eejercicio - Dividendos
+Utilidades = Utilidades en Ejercicio - Dividendos
 
 El principio de partida doble siempre se debe cumplir. 
 
@@ -202,3 +202,42 @@ La **rentabilidad** es la consecuencia final de una serie de decisiones tomadas 
 Es importante saber como se comportan las empresas cuando hay adquisiciones y/o fusiones, podrían tener algún impacto en el desempeño de la empresa.
 
 Leverage = Apalancamiento
+
+# Clase 4 - Estructura de Capital
+
+**Estructura de Capital**: Intenta explicar las fuentes de financiamiento para financiar las inversiones.
+
+Intenta determinar las proporciones de Deuda y de Capital que maximicen el valor de una compañia.
+
+El **valor (V)** de una compañía se define como la suma delvalor de la **deuda (D)** de la empresa y el **capital (C)** de la empresa:
+
+```
+V = D + C
+```
+
+**Si el objetivo es hacer que la empresa sea lo mas valiosa posible, la compañía debe elegir la combinación de deuda y capital que haga que el pastel sea lo más grande posible.** Pastel del que comen accionistas y acreedres.
+
+El market cap es el precio al cual se transa la compañía en el mercado.
+
+**Proposición I de M&M (sin impuestos):**
+
+En un mundo sin impuestos, ni otro tipo de distorsiones, el valor de una empresa no se ve afectado por el apalancamiento. 
+```
+Vs = Vp
+
+Vs: valor empresa sin deuda.
+Vp: valor empresa con deuda.
+```
+
+En otras palabras, **el valor de sus activos es independiente de la manera en que estos se financian.** ¿De qué depende entonces el valor de una empresa?
+
+El valor total **(V)** de una empresa depende de la **calidad de sus activos**, es decir, de la **capacidad para generar buenos flujos de caja (la capacidad de generar EBIT).**
+
+```
+Vp = Vs = VP(EBIT)
+```
+
+**Lo más importante es tener buenos activos, buscar empresas que generen buenos flujos de caja.**
+
+La **tasa de descuento** de los flujos debería ser un promedio ponderado de todas las fuentes de financiamiento de la compañía. Es lo que se conoce como **Costo Promedio Ponderado del Capital, (WACC) por sus siglas en inglés (Weighted Average Cost of Capital).** 
+
