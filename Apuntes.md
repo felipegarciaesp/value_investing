@@ -231,13 +231,35 @@ Vp: valor empresa con deuda.
 
 En otras palabras, **el valor de sus activos es independiente de la manera en que estos se financian.** ¿De qué depende entonces el valor de una empresa?
 
-El valor total **(V)** de una empresa depende de la **calidad de sus activos**, es decir, de la **capacidad para generar buenos flujos de caja (la capacidad de generar EBIT).**
+El valor total **(V)** de una empresa depende de la **calidad de sus activos**, es decir, de la **capacidad para generar buenos flujos de caja (la capacidad de generar EBIT (ingresos antes de intereses e impuestos)).**
 
 ```
 Vp = Vs = VP(EBIT)
+
+VP(EBIT): valor presente del EBIT.
 ```
 
-**Lo más importante es tener buenos activos, buscar empresas que generen buenos flujos de caja.**
+**Lo más importante es tener buenos activos, buscar empresas que generen buenos flujos de caja.** Hay que traer a valor presente los flujos futuros de la compañía.
 
-La **tasa de descuento** de los flujos debería ser un promedio ponderado de todas las fuentes de financiamiento de la compañía. Es lo que se conoce como **Costo Promedio Ponderado del Capital, (WACC) por sus siglas en inglés (Weighted Average Cost of Capital).** 
+La **tasa de descuento** de los flujos futuros debería ser un promedio ponderado de todas las fuentes de financiamiento de la compañía. Es lo que se conoce como **Costo Promedio Ponderado del Capital, (WACC) por sus siglas en inglés (Weighted Average Cost of Capital).** La fórmula es la siguiente se encuentra en 9:19 de Clase 04.
+
+El costo de la deuda es, generalmente, menor al costo del capital.
+
+La tasa de descuento lo que hace es descontar los flujos futuros. Distintos r_wacc generan distintos VP(EBIT). Lo que hace el r_wacc es descontar ls flujos futuros, a mayor tasa de descuento, el valor presente de los flujos futuros será menor. A menor tasa de descuento, el valor presente de los flujos futuros será mayor.
+
+Para que se cumpla la Proposición I, el VP(EBIT) debe ser constante e independiente de la proporción de Deuda(D) y Capital(C) de la compañía. Algo más debe cambiar cuando cambie la proporción Deuda y Capital: Proposición II de Modigliani y Miller.
+
+**Proposición II de M&M (sin impuestos):**
+
+El apalancamiento aumenta el retorno exigido (y el riesgo) para los accionistas.
+
+- **TIR pura**: retorno sobre los activos totales, de los activos puros (sin considerar la deuda).
+
+```
+Fórmula se encuentra en 13:36 de Clase 4
+```
+
+A medida que aumenta la Deuda (D) aumenta el costo del capital, y por lo tanto, aumenta el retorno exigido por los accionistas.
+
+Las tasas internas de retorno de un proyecto se calculan tomando solamente los flujos. El flujo inicial (que es negativo) con los flujos futuros (que son positivos, o se espera que sean positivos). No toma en consideración cuáles son las fuentes de financiamiento de un proyecto.
 
