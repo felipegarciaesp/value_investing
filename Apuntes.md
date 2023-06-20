@@ -316,4 +316,7 @@ En resumen, en un mundo con impuestos corporativos:
 
 # Clase 5 - EBITDA
 
+El EBITDA es una de las métricas más populares de los bancos de inversión.
+
+**EBITDA:** Earnings Before Interests and Taxes plus Depreciation and Amortization. Utilidad antes de impuestos e intereses (EBIT) más la depreciación y amortización del período.
 
