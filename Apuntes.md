@@ -308,3 +308,8 @@ r_c = r_TIR + (D/C) * (1- T) * (r_TIR - r_d)
 Una empresa con deuda genera más valor para los stakeholders (stakeholder serían los acreedores y accionistas). En una empresa con deuda, el fisco se lleva una menor parte.
 
 En términos de Valor Presente, la suma de la **deuda** más el **capital** de la empresa *apalancada* es mayor que el capital de la empresa no apalancada. La diferencia es el *beneficio tributario* o el llamado *tax shield*.
+
+En resumen, en un mundo con impuestos corporativos:
+
+* El valor de una empresa **aumenta** con el *apalancamiento*.
+* El *apalancamiento* **aumenta** (aún) el retorno exigido por los *accionistas*.
