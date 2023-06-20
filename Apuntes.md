@@ -229,6 +229,8 @@ Vs: valor empresa sin deuda.
 Vp: valor empresa con deuda.
 ```
 
+**En un mundo sin impuestos ni otras "distorsiones", el valor total (V) de una empresa es independiente de su nivel de deuda (D).**
+
 En otras palabras, **el valor de sus activos es independiente de la manera en que estos se financian.** ¿De qué depende entonces el valor de una empresa?
 
 El valor total **(V)** de una empresa depende de la **calidad de sus activos**, es decir, de la **capacidad para generar buenos flujos de caja (la capacidad de generar EBIT (ingresos antes de intereses e impuestos)).**
@@ -245,7 +247,12 @@ La **tasa de descuento** de los flujos futuros debería ser un promedio ponderad
 
 El costo de la deuda es, generalmente, menor al costo del capital.
 
-La tasa de descuento lo que hace es descontar los flujos futuros. Distintos r_wacc generan distintos VP(EBIT). Lo que hace el r_wacc es descontar ls flujos futuros, a mayor tasa de descuento, el valor presente de los flujos futuros será menor. A menor tasa de descuento, el valor presente de los flujos futuros será mayor.
+La tasa de descuento lo que hace es descontar los flujos futuros. Distintos r_wacc generan distintos VP(EBIT). 
+
+* Si no hay Deuda (D), r_wacc = r_c
+* Si sólo hay Deuda(D), r_wacc = r_d
+
+Lo que hace el r_wacc es descontar ls flujos futuros, a mayor tasa de descuento, el valor presente de los flujos futuros será menor. A menor tasa de descuento, el valor presente de los flujos futuros será mayor.
 
 Para que se cumpla la Proposición I, el VP(EBIT) debe ser constante e independiente de la proporción de Deuda(D) y Capital(C) de la compañía. Algo más debe cambiar cuando cambie la proporción Deuda y Capital: Proposición II de Modigliani y Miller.
 
@@ -259,7 +266,45 @@ El apalancamiento aumenta el retorno exigido (y el riesgo) para los accionistas.
 Fórmula se encuentra en 13:36 de Clase 4
 ```
 
-A medida que aumenta la Deuda (D) aumenta el costo del capital, y por lo tanto, aumenta el retorno exigido por los accionistas.
+A medida que aumenta la Deuda (D) aumenta el costo del capital, y por lo tanto, aumenta el retorno exigido por los accionistas (aumenta el riesgo).
 
 Las tasas internas de retorno de un proyecto se calculan tomando solamente los flujos. El flujo inicial (que es negativo) con los flujos futuros (que son positivos, o se espera que sean positivos). No toma en consideración cuáles son las fuentes de financiamiento de un proyecto.
 
+* r_wacc = r_TIR
+* r_wacc es independiente de la estructura de capital de la compañía.
+* Valor Empresa con Deuda (Vp) = Valor Empresa sin Deuda (Vs)
+
+Vamos a ponerle una cuota de realidad a la teoría: **IMPUESTOS**
+
+Una ventaja de la deuda es que su costo financiero (intereses pagados) es deducible para efecto de la determinación del impuesto a las utilidades de las empresas -> En el **EERR**, los gastos financieros se incluyen en el cálculo de la **utilidad antes de impuestos.** Debajo del **EBIT (ingreso operacional)** vienen los intereses o costos financieros.
+
+**NOTA IMPORTANTE:** El Estado recauda menos dinero de una empresa cuando la empresa está muy apalancada: el ex cedente se lo lleva el acrredor y no el Estado.
+
+**Proposición I y II de M&M (con impuestos)**
+
+- Proposición I de M&M:
+
+El Valor de una Empresa **aumenta** con el apalancamiento financiero:
+
+```
+Vp = Vs + (T * D)
+
+Vs: Valor empresa sin deuda.
+Vp: Valor empresa con deuda.
+T: Tasa de impuesto corporativo.
+D: Deuda de la compañía.
+```
+
+- Proposición II de M&M:
+
+Igual que en el mundo sin impuestos corporativos, el **apalancamiento** también aumenta el rendimiento exigido (y el riesgo) para los accionistas, pero parte del aumento en el riesgo de capital y el rendimiento se compensa con el "escudo fiscal" del impuesto sobre los intereses:
+
+```
+r_c = r_TIR + (D/C) * (1- T) * (r_TIR - r_d)
+```
+
+**Vamos a exigirle más retorno a una empresa que tiene deuda frente a otra que no tiene deuda.**
+
+Una empresa con deuda genera más valor para los stakeholders (stakeholder serían los acreedores y accionistas). En una empresa con deuda, el fisco se lleva una menor parte.
+
+En términos de Valor Presente, la suma de la **deuda** más el **capital** de la empresa *apalancada* es mayor que el capital de la empresa no apalancada. La diferencia es el *beneficio tributario* o el llamado *tax shield*.
