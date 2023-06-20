@@ -312,4 +312,8 @@ En términos de Valor Presente, la suma de la **deuda** más el **capital** de l
 En resumen, en un mundo con impuestos corporativos:
 
 * El valor de una empresa **aumenta** con el *apalancamiento*.
-* El *apalancamiento* **aumenta** (aún) el retorno exigido por los *accionistas*.
+* El *apalancamiento* **aumenta** (aún) el retorno exigido por los *accionistas*. (El apalancamiento, sin embargo, puede ser demasiado riesgoso como para aventurarme a invertir. Ojo con esto.)
+
+# Clase 5 - EBITDA
+
+
