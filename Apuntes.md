@@ -320,3 +320,30 @@ El EBITDA es una de las métricas más populares de los bancos de inversión.
 
 **EBITDA:** Earnings Before Interests and Taxes plus Depreciation and Amortization. Utilidad antes de impuestos e intereses (EBIT) más la depreciación y amortización del período.
 
+El EBITDA intenta ser una medida del flujo de caja de la empresa a partir del Estado de Resultados. Sin embargo, la construcción del Estado de Resultados es sobre la base devengada y no sobre una caja o dinero en efectivo. Mucho ojo con todas las métricas que vengan del EERR y que nos las vendan como flujo de efectivo o de caja.
+
+**Componentes del EBITDA:**
+
+**1. EBIT:** Ingreso por ventas - Costo de ventas - Gastos de administración (estas tres partidas se ubican antes de los intereses e impuestos).
+**EL EBIT NO ES FLUJO DE CAJA!! NO ES FLUJO DE EFECTIVO**
+
+**2. Depreciación:** Puede ser un gasto o un costo.
+**GASTO:**
+    - Para las empresas de servicios, que no producen un bien físico, la depreciación es un gasto por el uso de un activo fijo que se registra con un cargo a **GAV** (gasto de administración y ventas) y ES un abono en depreciación acumulada (es un activo negativo). **REVISAR SESIÓN DE PREGUNTAS PARA ACLARAR ESTO**
+    - Para llegar al EBITDA se suma el gasto por depreciación, que no es un egreso de caja, al EBIT. La depreciación efectivamente es un flujo de caja, es un gasto, que se realiza en períodos previos, y uno tiene que descontar hacia adelante. La depreciación sí es un gasto en efectivo y hay industrias que son muy intensivas en el gasto por depreciación.
+
+**COSTO:**
+    - Para empresas manufactureras (CAP o CCU, por ejemplo), la depreciación es un costo que se registra en el inventario. La depreciación pasa a ser un activo negativo y no se registra, a priori, en el EERR (a diferencia de lo que pasa en empresas de servicios, donde pasa a ser un cargo a GAV).
+    - Todos los costos de producción, incluyendo la depreciación, se traspasan al **Costo de Venta al vender las unidades.**
+    
+En la forma de presentar la depreciación en el EERR radica la diferencia entre empresas de servicio y manufactureras:
+    - Para las *empresas comercializadoras*, la **depreciación** es un gasto que va en **GAV**. Hay que entrar en los Estados Financieros para encontrarlo, sí es que lo encontramos.
+    - Para las *empresas productivas*, la **depreciación** aparece inserto en el **costo de venta**. Tenemos que entrar en los Estados Financieros para ver si esta informaciónse encuentra explícitamente.
+
+Esto genera dos problemas para identificar el monto de la depreciación a sumar al EBIT:
+    - El EERR muestra el gasto por depreciación separado del GAV, pero la depreciación en el costo de venta no está separada de los otros costos de producción. -> Esto es un problema.
+    - No toda la depreciación es traspasada al costo de venta, ya que existen saldos finales de inventario donde queda parte de la depreciación del período. -> Empezar a desglosar la depreciación que está inserta en el costo de venta y la que esta en los inventarios finales es complejo si la empresa no explicita donde está toda la depreciación para considerar en la cosntrucción del EBITDA.
+
+**3. Amortización:** Significa rebajar un pasivo o un activo.
+    - La cuota pagada por el préstamo engloba 2 componentes, el gasto financiero y la amortización del saldo insoluto.
+    - La deuda se registra a valor presente y se calcula la cuota que se pagará para extinguir la obligación.
