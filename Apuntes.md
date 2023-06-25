@@ -362,3 +362,6 @@ Es importante ser consicentes de la deficiencias del **EBITDA**. Puede hacer que
 A pesar de sus deficiencias, sigue siendo el estándar de la industria para evluar empresas y el proxy más utilizado para el flujo de efectivo operativo (excepto en este curso).
 
 Warren Buffet y Charlie Munger son retractores de utilizar el EBITDA para valorizar una compañía.
+
+# Clase 6 - Flujo de Caja Libre
+
