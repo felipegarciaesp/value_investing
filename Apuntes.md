@@ -347,3 +347,16 @@ Esto genera dos problemas para identificar el monto de la depreciación a sumar 
 **3. Amortización:** Significa rebajar un pasivo o un activo.
     - La cuota pagada por el préstamo engloba 2 componentes, el gasto financiero y la amortización del saldo insoluto.
     - La deuda se registra a valor presente y se calcula la cuota que se pagará para extinguir la obligación.
+    - Amortizar la deuda financiera es un egreso de caja, pero no se registra en el EERR, se registra en el Balance. Por lo tanto, no afecta al **EBIT**.
+    - Un activo intangible que tiene una vida finita conocida (como la adquisición de un software o el desarrollo de una patente), ha de rebajar su valor en el tiempo.  Se **amortiza** tal como se deprecia un activo fijo. 
+    - La **amortización** es un gasto que no implica desembolso de caja. 
+    - Se registra dentro de los GAV, afectando negativamente el EBIT. 
+    - Se debe sumar para calcular el **EBITDA**.
+
+Métrica no GAAP: métrica que las empresas no están obligadas a presentar en su Balance. **El EBITDA es una métrica no GAAP.**
+
+Como no está normado, se construye a discreción de la administración, dando espacio a la creatividad. 
+
+Es importante ser consicentes de la deficiencias del **EBITDA**. Puede hacer que las empresas no rentables parezcan rentables, ya que ignora la depreciación y la amortización, así como los intereses y los impuestos.
+
+A pesar de sus deficiencias, sigue siendo el estándar de la industria para evluar empresas y el proxy más utilizado para el flujo de efectivo operativo (excepto en este curso).
