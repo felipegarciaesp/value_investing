@@ -318,7 +318,7 @@ En resumen, en un mundo con impuestos corporativos:
 
 El EBITDA es una de las métricas más populares de los bancos de inversión.
 
-**EBITDA:** Earnings Before Interests and Taxes plus Depreciation and Amortization. Utilidad antes de impuestos e intereses (EBIT) más la depreciación y amortización del período.
+**EBITDA:** Earnings Before Interests and Taxes plus Depreciation and Amortization. Utilidad antes de impuestos e intereses (EBIT) más la depreciación y amortización del período. Para que se entienda, es la Utilidad antes de impuestos, intereses, depreciación y amprtización del período. No incluye gasto en inversiones ni gasto en obligaciones financieras y tributarias.
 
 El EBITDA intenta ser una medida del flujo de caja de la empresa a partir del Estado de Resultados. Sin embargo, la construcción del Estado de Resultados es sobre la base devengada y no sobre una caja o dinero en efectivo. Mucho ojo con todas las métricas que vengan del EERR y que nos las vendan como flujo de efectivo o de caja.
 
@@ -360,3 +360,5 @@ Como no está normado, se construye a discreción de la administración, dando e
 Es importante ser consicentes de la deficiencias del **EBITDA**. Puede hacer que las empresas no rentables parezcan rentables, ya que ignora la depreciación y la amortización, así como los intereses y los impuestos.
 
 A pesar de sus deficiencias, sigue siendo el estándar de la industria para evluar empresas y el proxy más utilizado para el flujo de efectivo operativo (excepto en este curso).
+
+Warren Buffet y Charlie Munger son retractores de utilizar el EBITDA para valorizar una compañía.
