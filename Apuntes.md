@@ -365,3 +365,76 @@ Warren Buffet y Charlie Munger son retractores de utilizar el EBITDA para valori
 
 # Clase 6 - Flujo de Caja Libre
 
+**Free Cash Flow** -> Es lo que nos debería importar a nosotros como accionistas. Es la mejor manera de traer los flujos a valor presente. Representa el efectivo que una empresa genera después de contabilizar las salidas de efectivo para apoyar las operaciones y mantener sus activos de capital. Estamos hablando de dinero en efectivo, nada de devengado.
+
+A diferencia de la Utilidad Neta, el Flujo de caja libre es una medida que excluye los gastos no monetarios del EERR e incluye el gasto en equipos, activos y los cambios en el capital de trabajo del Balance.
+
+Si utilizamos el flujo de caja libre, estaremos llegando al dinero que realmente entre y sale de la compañía.
+
+**Componentes del Flujo de Caja Libre:**
+
+**1. Flujo de Actividades Operativas**
+
+Es la primera sección que muestra el Estado de Flujo de Efectivo.
+
+Muestra la cantidad de dinero efectivo que una empresa aporta por sus actividades comerciales, como la fabricación y venta de muebles o prestación de un servicio a los clientes.
+
+Muestra todo lo necesario para que operativamente la compañía funcione.
+
+Mucho ojo con el item de Intereses pagados, es muy importante. Algunas empresas no incluyen en esta sección el pago de intereses, y lo agregan en el flujo de financiamiento **AGREGALOS como un gasto**. El pago de intereses es una parte fundamental de las operaciones de una empresa. Sin pagar sus intereses, la empresa no existiría. En la fila de cobro, primero están los acreedores, luego el fisco y al final los accionistas. Hay que considerar los intereses pagados dentros de los flujos operativos para no cometer errores, en especial con empresas muy apalancadas. 
+
+Algunas empresas incluyen los dividendos pagados en esta sección **QUÍTALOS**. Recordar que el FCF (Free Cash Flow) muestra el dinero libre para repartir a los dueños en forma de dividendos. Si no los quitamos, estamos sobre castigando la capacidad operativa de genrar recursos de la empresa. Si no los quitamos, vamos a considerar 2 veces el pago de dividendos.
+
+**No es una buena medida para valorar bancos**, ya que la mayoría de los flujos que pasan por las operaciones de los bancos no son del banco, sino de sus clientes. Es dificil separar los flujos propios (imposible). Estaremos cometiendo un error grande al valorizar bancos con esta medida y llegaremos a conclusiones erróneas. 
+
+Importancia del Flujo de Actividades Operativas: 
+    - Es un punto de referencia para determinar la salud de las actividades comerciales de una empresa. Ojalá sea siempre positivo. Si es negativo, está egresando más dinero del que está ingresando. Esto es malo porque si se mantiene, la empresa va a necesitar financiamiento.
+    - Existen 2 métodos para representar el efectivo de las actividades operativas, ambas con el mismo resultado:
+        a. **El método indirecto** comienza con la utilidad neta del EERR (en la primera parte del EERR), y luego agrega los elementos no monetarios. Es el más utilizado en EE.UU (HACEN LA PEGA POR NOSOTROS).
+        b. **El método directo** muestra todas las transacciones en efectivo de un período, categorizadas en entradas y salidas. Es el más utilizado en Chile.
+    Ambos métodos llegan al mismo resultado.
+
+**2. Compra de Propiedades, Plantas y Equipos**
+
+La cuenta de Propiedades, Plantas y Equipos **(PP&E)** son activos de largo plazo imprescindibles para desarrollar las operaciones comerciales de la compañía. Se encuentra en el Balance General.
+
+Son activos tangibles.
+
+No se convierten fácilmente en efectivo.
+
+En el Balance se muestra neteada:
+    **Saldo bruto de propiedad, planta y equipo - depreciación acumulada**
+
+Son activos que se espera que generen beneficios económicos y contribuyan a los ingresos durante muchos años.
+
+Las compras de PP&E son una señal de que la dirección tiene fé en las prespectivas a largo plazo y la rentabilidad de la compañía.
+
+**No confundir con Gastos Operativos**
+
+Los *gastos de capital* **(CapEx)** no deben confundirse con los *gastos operativos* **(OpEx)**.
+
+**OpEx:** Gastos de corto plazo necesarios para cubrir los costos operativos actuales de la gestión de un negocio. Va en el EERR.
+
+Un gasto se considera CaPex cuando el activo es recién comprado o si tiene una vida útil de más de un año, o que mejora la vida útil de un activo de capital existente. Todos los activos tienen una vida útil contable normada por SII.
+
+Si el gasto es por mantenimiento, reparación por ejemplo, el costo generalmente se deduce por completo en el año en que se incurre en el gasto (OpEx).
+
+Capital Expenditures (CapEx):
+    - Son pagos por bienes o servicios que se registran e el Balance de una empresa, en vez de ser contabilizados como gastos en el EERR. El OpEx se contabiliza en el EERR, no el CapEx.
+    - Es importante para que las empresas mantengas las propiedades y equipos existentes, e inviertan en nuevas tecnologías y otros activos para el crecimiento.
+    - Ejemplo de CapEx: compra de terrenos, vehículos, edificios o maquinaria pesada.
+    - El CapEx se puede ver, principalmente, como **Compras de propiedad, planta y equipo.** Normalmente es la cuenta más abultada dentro de "Actividades de Inversión".
+
+
+El **flujo de caja libre** es el flujo de caja (flujo de efectivo) que queda para que la empresa pague a los acreedores o pague dividendos a los inversores.
+
+Que el FCF vaya en línea con la Utilidad de una compañía es bueno: quiere decir que la mayoría del dinero que recibe la compañía es bastante parecido a la liquidez (dinero en efectivo) que recibe la compañía.
+
+Es bueno mirar tendencias de largo plazo y ver una correlación positiva entre el FC y la Utilidad. En el muy largo plazo, estas líneas debiesen ser iguales. Todo lo que fue devengado, en algun momento del tiempo debe ser pagado. Si hay distorsiones permanentes habría que sospechar si las Utilidades están reflejando algo que se va a convertir en liquidez o no.
+
+| Ítem | Donde encontrarlo | Observaciones |
+|----------|----------|----------|
+| + Flujo de Activdaes Ooperacionales    | Cell 2   | Cell 3   |
+| Row 2    | Cell 5   | Cell 6   |
+| Row 3    | Cell 8   | Cell 9   |
+
