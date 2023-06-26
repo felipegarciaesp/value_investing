@@ -454,3 +454,39 @@ A modo de Resumen, para calcular el Flujo de Caja Libre:
 
 El FCF es la mejor métrica para estimar los flujos de efectivo, y para poder valorar una empresa.
 
+# Clase 7 - CAPM
+
+Esta clase es más para manejar el concepto, pero no tanto para utilizarlo. La idea es sacar mis propias conclusiones, crticarlo con conocimiento.
+
+CAPM: Capital Asset Pricing Model.
+
+Es un modelo financiero que establece una relación lineal entre el rendimiento de una inversión y su riesgo. "A mayor riesgo, mayor rentabilidad".
+
+El objetivo del CAPM es evaluar si una acción se valora de manera justa cuando su riesgo y el valor temporal del dinero se comparan con su rendimiento esperado.
+
+Según Jose Stuven, el riesgo no tiene nda que ver con como se mueve una acción en el tiempo. Es decir, no tiene nada que ver con la volatilidad que tenga respecto al mercado. **Esto se va a profundizar más adelante.**
+
+**Problemas del CAPM:**
+
+El problema del modelo CAPM es que las suposiciones del modelo no se sostienen en la realidad. Entre éstas se cuentan:
+    - Mercados eficientes, la información relevante se distribuye y absorbe de forma rápida y universal.
+    - Inversores racionales y reacios al riesgo.
+
+**Riesgo no es que un precio suba o baja, riesgo es si pasa algo catastrófico (que la empresa quiebre). Quedarnos con esto, es la mira de un Value Investor!**
+
+**Reflexiones respecto al Riesgo, Diversificación y Rentabilidad**
+
+- La forma de generar riqueza es aumentando el valor de los activos en el tiempo. Y por consecuencia, aumentar las utilidades en el tiempo. 
+
+- Para nosotros, el riesgo no tendrá que ver con el precio del activo, sino que su probabilidad de desaparición **(nuestro lema)**. En las inversiones tenemos que tratar de saber donde vamos a morir, para no ir ahí.
+    - Supongamos que los $3.400 millones de dólares que SQM va a invertir de aquí hasta 2025 para producir litio se frustran por un cambio en sus contratos de explotación. El riesgo está en que no puedan explotar el Salar de Atacama.
+    - **Nuestra tarea como inversionistas es evitar el riesgo.**
+
+- La rentabilidad es el cuociente entre una ganancia y su inversión en un período determinado. La que nos interesa como accionistas es el Retorno sobre Patrimonio (**Return On Equity**):
+    ROE = Utilidad del Ejercicio / Patrimonio
+
+- Este retorno debe ser un número tal que compense a los accionistas el no poner su dinero en otro lado (**costo oportunidad**). Hay que estar dónde nuestr dinero tenga mejor rendimiento.
+
+- Recordar siempre: **Precio** es lo que pagas, **valor** es lo que recibes. Acá reside nuestra clave de nuestro racionamiento y juicio, más que ver el beta propuesto por el modelo CAPM, basado en rendimientos pasados.
+
+- Los economistas hablan de la eficiencia de los mercados. **A veces el mercado tiene razón sobre el precio de una acción, pero no siempre tiene la razón.** Si una empresa hoy está barata no es porque fundamentalmente deba estar barata, muchas veces hay asimetrías de información y el mercado no se da cuenta a tiempo de lo que esta valorando.
