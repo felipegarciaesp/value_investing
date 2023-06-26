@@ -493,3 +493,10 @@ El problema del modelo CAPM es que las suposiciones del modelo no se sostienen e
 
 # Clase 8 - Flujos de Caja Descontados
 
+Traer los flujos futuros al presente se llama **calcular el Valor Presente**, y para hacerlo necesitamos conocer dos cosas:
+    1. Los **flujos**.
+    2. La **tasa** que descuenta esos flujos.
+
+Es necesario estimar los flujos para que sea atractivo no solo pagar, sino que valga la pena la espera, ya que la recompensa la tendré en el futuro.
+
+No estresarse con encontrar el valor exacto de la tasa de descuento. JStuven recomienda tomar la tasa de descuento igual a 15%. Si con este descuento resulta que la empresa es atractiva, excelente. De hecho, si el ejercicio lo hacemos con una tasa de descuento de 20 o 25% y aún así nos resulta atractiva, mejor aún. JStuven dice que en su experiencia de cálculo de tasas de descuento, se ha encontrado con un rango de 4% a 15%, de ahí que recomienda utilizar el 15% como tasa de descuento.
