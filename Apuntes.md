@@ -432,9 +432,25 @@ Que el FCF vaya en línea con la Utilidad de una compañía es bueno: quiere dec
 
 Es bueno mirar tendencias de largo plazo y ver una correlación positiva entre el FC y la Utilidad. En el muy largo plazo, estas líneas debiesen ser iguales. Todo lo que fue devengado, en algun momento del tiempo debe ser pagado. Si hay distorsiones permanentes habría que sospechar si las Utilidades están reflejando algo que se va a convertir en liquidez o no.
 
-| Ítem | Donde encontrarlo | Observaciones |
-|----------|----------|----------|
-| + Flujo de Activdaes Ooperacionales    | Cell 2   | Cell 3   |
-| Row 2    | Cell 5   | Cell 6   |
-| Row 3    | Cell 8   | Cell 9   |
+A modo de Resumen, para calcular el Flujo de Caja Libre:
+
+    Flujo de Actividades Operacionales (debe ser positivo) -> Se encuentra en el Estado de Flujos de Efectivo (es el saldo de las Actividades de Operación). Observaciones: Atención al gasto de intereses (que esté donde debe estar) y a los dividendos pagados (que estén donde deben estar (Flujo de Financiamiento y no en el Flujo Operativo, los intereses deben estar en el Flujo Operativo y no en el Flujo de Financiamiento)).
+
+    CapEx (que está en saldo negativo en el EERR)-> Se encuentra en el Estado de Flujos de Efectivo, en Actividades de Inversión. Observaciones: Atención a las ventas de PP&E, compra/venta de activos intangibles y otro tipo de adquisiciones.
+
+    En consecuencia, el Flujo de Caja Libre (FCF) resulta de: Flujo de Actividades Ooperacionales + CapEx (recordar que el primero es positivo y el segundo es negativo). "No trates de arreglarlo para llegar al número que te gusta."
+
+**Ventajas del Flujo de Caja Libre**
+
+- Como se construye con el Estado de Flujos de Eefectivo, muestra ingresos y salidas de dinero efectivo.
+- Nos olvidamos del principio de devengado. No tenemos que reventarnos la cabeza respecto a las depreciaciones, amortizaciones del período, las ventas que llegarán, etc.
+- Toma en cuenta el desembolso en gastos de capital (Capital Expenditure, CapEx).
+
+**Conclusiones:**
+1. El flujo de caja libre es una métrica financiera importante porque representa la cantidad real de efectivo a disposición de una empresa.
+2. Una emresa con un FCF consistentemente bajo o negativo podría verse obligada a pedir dinero prestado a acreedores o accionistas.
+3. Una empresa que genera efectivo operativo sólo para mantener sus operaciones actuales, pero no para invertir en el crecimiento de su negocio, podría eventualmente quedarse por detrás de sus competidores. Es importante que con el saldo entre los ingresos y egresos de la actividad comercial sea suficientemente atractivo para poder reinvertir en la compañía y no perder ventaja frente a los competidores.
+4. El FCF también es importante para comprender la sostenibilidad de los pagos de dividendos de una empresa, así como la probabilidad de que una empresa aumente (o recorte) sus dividendos en el futuro. Una empresa que, por lo menos, mantiene su FCF es una empresa que constantemente va a poder entregar dividendos, es importante la consistencia. Es bueno ver como se ha comportado la empresa en el pasado y como se ha comportado en tiempos de crisis.
+
+El FCF es la mejor métrica para estimar los flujos de efectivo, y para poder valorar una empresa.
 
