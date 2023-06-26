@@ -490,3 +490,6 @@ El problema del modelo CAPM es que las suposiciones del modelo no se sostienen e
 - Recordar siempre: **Precio** es lo que pagas, **valor** es lo que recibes. Acá reside nuestra clave de nuestro racionamiento y juicio, más que ver el beta propuesto por el modelo CAPM, basado en rendimientos pasados.
 
 - Los economistas hablan de la eficiencia de los mercados. **A veces el mercado tiene razón sobre el precio de una acción, pero no siempre tiene la razón.** Si una empresa hoy está barata no es porque fundamentalmente deba estar barata, muchas veces hay asimetrías de información y el mercado no se da cuenta a tiempo de lo que esta valorando.
+
+# Clase 8 - Flujos de Caja Descontados
+
