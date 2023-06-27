@@ -499,4 +499,14 @@ Traer los flujos futuros al presente se llama **calcular el Valor Presente**, y 
 
 Es necesario estimar los flujos para que sea atractivo no solo pagar, sino que valga la pena la espera, ya que la recompensa la tendré en el futuro.
 
-No estresarse con encontrar el valor exacto de la tasa de descuento. JStuven recomienda tomar la tasa de descuento igual a 15%. Si con este descuento resulta que la empresa es atractiva, excelente. De hecho, si el ejercicio lo hacemos con una tasa de descuento de 20 o 25% y aún así nos resulta atractiva, mejor aún. JStuven dice que en su experiencia de cálculo de tasas de descuento, se ha encontrado con un rango de 4% a 15%, de ahí que recomienda utilizar el 15% como tasa de descuento.
+**No estresarse con encontrar el valor exacto de la tasa de descuento. JStuven recomienda tomar la tasa de descuento igual a 15%. Si con este descuento resulta que la empresa es atractiva, excelente. De hecho, si el ejercicio lo hacemos con una tasa de descuento de 20 o 25% y aún así nos resulta atractiva, mejor aún. JStuven dice que en su experiencia de cálculo de tasas de descuento, se ha encontrado con un rango de 4% a 15%, de ahí que recomienda utilizar el 15% como tasa de descuento.**
+
+**El crecimiento esperado (g) no puede ser mayor que la Tasa de reinversión multiplicado por el ROE.** ¿Porqué una empresa crecería más que su ROE histórico?
+
+**Es necesario aplicar el concepto de Margen de Seguridad para las inversiones.**
+
+**Ventajas de ocupar el modelo de Flujos Descontados de Efectivo:**
+
+1. Entrega una idea de si una inversión vale la pena.
+2. Se puede aplicar a muchos análisis, siempre y cuando los flujos futuros se puedan estimar.
+3. La proyección se puede ajustar para simular varios escenarios.
