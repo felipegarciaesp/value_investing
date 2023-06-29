@@ -508,5 +508,42 @@ Es necesario estimar los flujos para que sea atractivo no solo pagar, sino que v
 **Ventajas de ocupar el modelo de Flujos Descontados de Efectivo:**
 
 1. Entrega una idea de si una inversión vale la pena.
-2. Se puede aplicar a muchos análisis, siempre y cuando los flujos futuros se puedan estimar.
-3. La proyección se puede ajustar para simular varios escenarios.
+2. Se puede aplicar a muchos análisis, siempre y cuando los flujos futuros se puedan estimar. No sacamos nada con tener el mejor modelo del mundo si no podemos determinar, con cierta precisión, cuáles serán los flujos que va a generar la compañía en el futuro.
+3. La proyección se puede ajustar para simular varios escenarios. Podemos hacer simulaciones con flujos normales, creciente o decrecientes.
+
+**Desventajas de ocupar el modelo de Flujos Descontados de Efectivo:**
+
+1. Como todo modelo, será tan bueno (o malo) como lo sean sus supuestos. El resultado debe ser tomado como una estimación, no como una certeza.
+2. Los flujos futuros se mueven por muchos factores: demanda, economía, cambios tecnológicos, competencia, amenazas, etc. Es imposible cuantificar con exactitud. Son imponderables y nadie en el mundo los tiene bajo su control. Pero sí podemos estudiar la capacidad productiva de los activos, la capacidad de éstos de generar flujos. 
+3. Debe tomarse como una herramienta más. **Esto no es una ciencia exacta, esto es un arte**
+
+**Reglas**
+
+1. **Deja los sesgos de lado.** No te hagas trampa en el solitario, no trates de ajustar lo que realmente es.
+
+2. **Siempre considerar el peor escenario.**
+
+3. **El desempeño pasado es un buen proxy. No sobreestimar capacidades de la empresa.** Si una empresa siempre ha vendido entre $100 y $200, ¿porqué hacerse expectativas de que venderá $300 ó $400? No pasarse películas, salvo que haya un cambio que revolucione los procesos de la empresa. Cuidado que en RRSS van a abundar las noticias que son driver de valor y que no todas las empresas son capaces de capitalizar. La aparición de Tesla, Amazon, Apple no estaba en ningún modelo, el mercado tuvo que darse cuenta del valor de estas empresas. **Sé conservador.**
+
+4. **No busques un "precio objetivo", sino un ancho de banda.** Considera escenario negativo, escenario positivo y escenario normal.
+
+5. **Aplica un margen de seguridad.** Elige uno que se acomode a tu comodidad, sólo tú eres capaz de cuantificar.
+
+**Análisis de Embotelladora Andina desde 19:04 de la clase.**
+
+**Enterprise Value (EV)**
+
+El **EV** es el valor de una empresa, tanto para sus accionistas (propietarios de acciones) como para sus acreedores (deuda financiera, bonos).
+
+```
+Enterprise Value = Market Cap - Deuda + Efectivo
+```
+
+Lo anterior es el EV de mercado, pero nosotros queremos saber cuanto debiesemos pagar por la acción. El Market Cap lo vamos a reemplazar por la sumatoria de los flujos de efectivo que va a generar la empresa en el tiempo. Como inversionistas nos interesa valorar la acción en base a lo que genera, y después lo vamos a comparar por si está caro o barato en el mercado.
+
+Como accionistas nos interesan sólo las acciones (**Patrimonio**) de la compañía, por tanto restamos la deuda financiera y agregamos el efectivo.
+
+El EV (de inversionista) que obtengamos lo dividimos por el número de acciones, y comparamos con el precio de mercado. De esta forma vamos a saber si está a un buen precio o a un mal precio. A esto le podemos aplicar el margen de seguridad que le quiero asignar, a menos que haya sido conservador en los inputs (en este caso, no es necesario).
+
+Para JStuven, son las ventas el driver de valor principal. Sin ventas, no hay nada por detrás (ni EERR, ni utilidad acumulada).
+
