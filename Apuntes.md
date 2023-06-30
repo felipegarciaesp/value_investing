@@ -547,3 +547,6 @@ El EV (de inversionista) que obtengamos lo dividimos por el número de acciones,
 
 Para JStuven, son las ventas el driver de valor principal. Sin ventas, no hay nada por detrás (ni EERR, ni utilidad acumulada).
 
+#  Clase 9 - Caso Intel
+
+
