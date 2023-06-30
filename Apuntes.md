@@ -549,4 +549,6 @@ Para JStuven, son las ventas el driver de valor principal. Sin ventas, no hay na
 
 #  Clase 9 - Caso Intel
 
+Revisar la clase 9 para ver análisis de Intel.
+
 
