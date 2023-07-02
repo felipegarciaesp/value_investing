@@ -551,4 +551,6 @@ Para JStuven, son las ventas el driver de valor principal. Sin ventas, no hay na
 
 Revisar la clase 9 para ver análisis de Intel.
 
+Flujo Operativo: cuánto de las ventas la compañía convierte en efectivo.
+
 
