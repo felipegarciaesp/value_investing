@@ -553,4 +553,6 @@ Revisar la clase 9 para ver análisis de Intel.
 
 Flujo Operativo: cuánto de las ventas la compañía convierte en efectivo.
 
+#  Clase 10 - Múltiplos más utilizados
+
 
