@@ -555,4 +555,40 @@ Flujo Operativo: cuánto de las ventas la compañía convierte en efectivo.
 
 #  Clase 10 - Múltiplos más utilizados
 
+Herramientas para complementar cualquier análisis de flujo de caja descontado. O cualquier herramienta para valorización de empresas.
 
+Esta clase se trata de los múltiplos, pero ojo que hay que entender los fundamentos que hay detrás porque pueden ser un arma de doble filo. No será muy conveniente llegar y copiar lo que están haciendo otros.
+
+Para no olvidar: **El valor de una empresa no es más que el valor presente de sus flujos futuros.**
+
+Importante: **El valor que genera una empresa se puede expresar en métricas, no al revés.** Los múltiplos no son driver del resultado de las empresas, es al revés, las empresas con sus resultados son capaces de traducir estos resultados en múltiplos que complementan la información. Los múltiplos hay que saber utilizarlos para no sub o sobre estimar lo que estamos calculando.
+
+1. **ROE:**
+
+    ROE = Utilidades / Patrimonio
+
+    Patrimonio = Equity (en inglés)
+
+    Es la medida más conservadora con la que puedes analizar una empresa, ya que contempla más gastos que otras mediciones de rentabilidad.
+
+    Las **utilidades** son flujo (Estado de Resultados), y el **patrimonio** es stock (Balance General). Sería un error considerar las Utilidades de un sólo período para calcular el ROE, hay que tomarlo para todo un año calendario para que sea realmente comparable con el Patrimonio.
+
+    Para que un ROE se considere bueno o malo, dependerá de lo que sea normal entre los pares de una acción.
+
+    Una buena relga general es apuntar a un ROE que sea igual o justo por encima del promedio del sector de la empresa, los que están en el mismo negocio.
+
+    La idea es encontrar ROE's altos y luego analizar a que precio comprar esas acciones.
+
+    Aunque puede no ser del todo preciso, el **ROE** es un muy buen punto de partida para desarrollar **estimaciones futuras** de la tasa de **crecimiento** de una empresa.
+
+    Para estimar la tasa de crecimiento futuro de una empresa, multiplica el ROE por la tasa de retención (reinversión) de la empresa. La tasa de retención es el porcentaje de utilidades que la empresa reinvierte para financiar el crecimiento futuro (para no hipotecar su futuro). **Una empresa que no reinvierte sus utilidades es una empresa que no crece.**
+
+    Cuidado que el ROE no es perfecto y siempre hay que combinar con otros indicadores para asegurar que el análisis que estamos haciendo está correcto. Considerar los siguientes puntos:
+
+        1. No es lo mismo un ROE de 20% de una empresa Con Deuda de una Sin Deuda (M&M). Una empresa con mucha deuda podría llegar a no ser sostenible, mientras que una empresa sin deuda tiene mayores facilidades para pedir prestad y disparar mucho más el ROE.
+
+        2. Si las utilidades no son sostenibles, no sirve de nada. Ojo con aquellas empresas donde el análisis te da un ROE muy disparado, puede no ser sostenible en el tiempo. Siempre hay que buscar consistencia, mirando la historia de la empresa y viendo si han habido sucesos excepcionales.
+
+        3. No es lo mismo "comprar" un ROE de 20% a 2 veces patrimonio que a 1 vez patrimonio. **ESTO NO LO ENTENDÍ**
+
+        QUEDÉ EN 14:00 DE LA CLASE 10.
