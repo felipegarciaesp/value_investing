@@ -759,3 +759,9 @@ Caemos en la trampa de asumir que el rendimiento pasado de una acción es indica
 El conocimiento de la industria y los fundamentos de la empresa puede ayudar a evaluar el valor real de las acciones, **ANTES QUE LOS INDICADORES**. Recordar que los indicadores son consecuencia de los resultados de una empresa. **Los resultados de una empresa no son consecuencia de los múltiplos que utilicemos.** Cuando veamos un indicador, primero analizar la empresa y después ver el indicador una vez que tengamos hecho un juicio.  Cosa de decir "esto no lo había visto" ó "esto lo había visto y me calza con este indicador".
 
 Y si es muy complicado, pasar a la siguiente empresa. No nos calentemos la cabeza ni nos enfrasquemos en laberintos sin salida. Si no entendemos los fundamentos de la compañía y si no entendemos porque se estructura de cierta forma, dejarla ir.
+
+**NO TOMES UNA DECISIÓN SOLO PORQUE ALGUN INDICADOR ES BUENO.**
+
+#  Clase 11 - Margen de Seguridad y Mr Market
+
+El Margen de Seguridad es un principio en el que un inversor solo compra cuando el precio está significativamente por debajo de su **valor intrínseco**.
