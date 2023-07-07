@@ -710,3 +710,52 @@ Para los value investor esto puede indicar una buena compra, ya que el precio de
 ¿Por qué generalmente el precio de mercado está por sobre el valor libro?
 
 El valor libro no considera activos intangibles. Tampoco las habilidades de los trabajadores, ni como los activos generarán flujos en el tiempo. El valor de mercado, que tienen en cuenta todas estas cosas, generalmente es más alto.
+
+Que una empresa esté a su valor libro no significa que sea llegar y comprar. Hay que hacer un análisis más profundo para entender los activos de una compañía.
+
+6. **Precio / Utilidad / Crecimiento (P/E/G):**
+
+Corresponde a la relación **Precio / Utilidad** *dividida* por la *tasa de crecimiento* de sus ganancias durante un período de tiempo.
+
+Para **Peter Lynch** (creadpr de este indicador), el **Precio / Utilidad** y el *crecimiento esperado* de una empresa **deberían ser iguales.**
+
+    Precio / Utilidad / Crecimiento > 1,0 ---> Se considera sobrevalorada.
+    Precio / Utilidad / Crecimiento < 1,0 ---> Se considera infravalorada.
+
+JStuven dice que este indicador es bastante exigente. Es bueno mencionarlo, pero al momento de hacer el vídeo, JStuven dice que no lo ocupa.
+
+7. **EBIT / EV:**
+
+No se usa comúnmente, pero tiene ventajas al comparar empresas:
+
+    1. Usar el EBIT como medida de rentabilidad elimina distorsiones de las diferencias en las tasas impositivas. (Las tasas impositivas son distintas para cada país y muchas veces esto puede afectar la comparación de empresas ubicadas en distintos países.)
+    2. Normaliza los efectos de diferentes estructuras de capital (como es el EBIT y no está considerando el costo financiero). (Aisla los efectos de una empresa muy endeudada con una empresa con poca deuda.)
+
+"nos permite poner a las empresas con diferentes niveles de deuda y diferentes tasas impositivas en pie de igualdad cuando se comparan los rendimientos de las ganancias" - Joel Greenblatt.
+
+JStuven dice que lo ha ocupado un par de veces para comparar la misma empresa en distintos períodos de tiempo.
+
+8. **EV / EBITDA:**
+
+Este es muy utilizado por los bancos de inversión, lo vamos a ver por todos lados.
+
+Se usa para determinar si una empresa está infravalorada o sobrevalorada.
+
+Es útil para comparar transnacionales, porque ignora distorsiones de políticas fiscales de cada país.
+
+También se utiliza para fusiones y adquisiciones (M&A), ya que el **EV** incluye la deuda.
+
+Pero... es el **EBITDA**. El problema es que cuando estamos analizando empresas de industrias que requieren mucha inversión de capital, será mentiroso. JStuven no recomienda que utilicemos este indicador, sino más bien el **EBIT / EV**.
+
+
+**OJO:**
+
+Cuidado con las **trampas de valor**.
+
+Hay acciones con múltiplos bajos merecidamente. **Crea la ilusión** de una buena inversión, pero los fundamentos apuntan hacia rendimientos negativos.
+
+Caemos en la trampa de asumir que el rendimiento pasado de una acción es indicativo de rendimientos futuros y cuando el múltiplo baja, aprovechan la oportunidad de comprarla **"barato"**. 
+
+El conocimiento de la industria y los fundamentos de la empresa puede ayudar a evaluar el valor real de las acciones, **ANTES QUE LOS INDICADORES**. Recordar que los indicadores son consecuencia de los resultados de una empresa. **Los resultados de una empresa no son consecuencia de los múltiplos que utilicemos.** Cuando veamos un indicador, primero analizar la empresa y después ver el indicador una vez que tengamos hecho un juicio.  Cosa de decir "esto no lo había visto" ó "esto lo había visto y me calza con este indicador".
+
+Y si es muy complicado, pasar a la siguiente empresa. No nos calentemos la cabeza ni nos enfrasquemos en laberintos sin salida. Si no entendemos los fundamentos de la compañía y si no entendemos porque se estructura de cierta forma, dejarla ir.
