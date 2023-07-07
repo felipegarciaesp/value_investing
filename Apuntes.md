@@ -563,19 +563,21 @@ Para no olvidar: **El valor de una empresa no es más que el valor presente de s
 
 Importante: **El valor que genera una empresa se puede expresar en métricas, no al revés.** Los múltiplos no son driver del resultado de las empresas, es al revés, las empresas con sus resultados son capaces de traducir estos resultados en múltiplos que complementan la información. Los múltiplos hay que saber utilizarlos para no sub o sobre estimar lo que estamos calculando.
 
+**NINGÚN INDICADOR POR SÍ SOLO NOS VA A LLEVAR A BUEN PUERTO**
+
 1. **ROE:**
 
-    ROE = Utilidades / Patrimonio
+ROE = Utilidades / Patrimonio
 
-    Patrimonio = Equity (en inglés)
+Patrimonio = Equity (en inglés)
 
-    Es la medida más conservadora con la que puedes analizar una empresa, ya que contempla más gastos que otras mediciones de rentabilidad.
+Es la medida más conservadora con la que puedes analizar una empresa, ya que contempla más gastos que otras mediciones de rentabilidad.
 
-    Las **utilidades** son flujo (Estado de Resultados), y el **patrimonio** es stock (Balance General). Sería un error considerar las Utilidades de un sólo período para calcular el ROE, hay que tomarlo para todo un año calendario para que sea realmente comparable con el Patrimonio.
+Las **utilidades** son flujo (Estado de Resultados), y el **patrimonio** es stock (Balance General). Sería un error considerar las Utilidades de un sólo período para calcular el ROE, hay que tomarlo para todo un año calendario para que sea realmente comparable con el Patrimonio.
 
-    Para que un ROE se considere bueno o malo, dependerá de lo que sea normal entre los pares de una acción.
+Para que un ROE se considere bueno o malo, dependerá de lo que sea normal entre los pares de una acción.
 
-    Una buena relga general es apuntar a un ROE que sea igual o justo por encima del promedio del sector de la empresa, los que están en el mismo negocio.
+Una buena relga general es apuntar a un ROE que sea igual o justo por encima del promedio del sector de la empresa, los que están en el mismo negocio.
 
     La idea es encontrar ROE's altos y luego analizar a que precio comprar esas acciones.
 
@@ -589,6 +591,122 @@ Importante: **El valor que genera una empresa se puede expresar en métricas, no
 
         2. Si las utilidades no son sostenibles, no sirve de nada. Ojo con aquellas empresas donde el análisis te da un ROE muy disparado, puede no ser sostenible en el tiempo. Siempre hay que buscar consistencia, mirando la historia de la empresa y viendo si han habido sucesos excepcionales.
 
-        3. No es lo mismo "comprar" un ROE de 20% a 2 veces patrimonio que a 1 vez patrimonio. **ESTO NO LO ENTENDÍ**
+        3. No es lo mismo "comprar" un ROE de 20% a 2 veces patrimonio que a 1 vez patrimonio. **ESTO NO LO ENTENDÍ (13:30 aprox del video)**
 
-        QUEDÉ EN 14:00 DE LA CLASE 10.
+Roe - DuPont
+
+El análisis DuPont es una fórmula para seguir el rendimiento financiero de una empresa. Permite determinar qué actividades contribuyen más a los cambios en el ROE.
+    
+Hay tres métricas financieras que impulsan el ROE:
+    
+1. Eficiencia operativa que está representada por el margen neto (utilidades versus ventas).
+2. Eficiencia en el uso de activos que se mide por el ratio rotación de activos (ventas sobre los activos).
+3. Apalancamiento financiero que se mide por el multiplicador de capital.
+
+    Margen Neto = Utilidades / Ventas
+    Rotación Activos = Ventas / Activos
+    Leverage = Activos / Patrimonio
+
+    ROE = Margen Neto * Rotación Activos * Leverage
+
+    Esta descomposición es muy útil de realizar. Es recomendable hacerla al analizar una empresa. Esta manera de analizar el ROE es clave para entender los problemas de una empresa.
+
+    (Ejemplo de INTEL en 16:05, llegar a los mismos números)
+
+2. **Dividend Yield:**
+
+Es una relación financiera que muestra cuánto paga una empresa en dividendos cada año en relación con el precio de sus acciones.
+
+    Dividend Yield = Dividendos por acción / Precio por acción
+
+Suponiendo que el monto pagado en dividendos no varíe, el rendimiento aumentará cuando el precio de las acciones caiga y caerá cuando el precio de las acciones suba.
+
+En lo posible, que los dividendos que entregue una compañía sean lo más consistente posible en el tiempo. De esta forma nos aseguramos que no estaremos comprando acciones de una empresa donde en un momento particular se dió un Dividend Yield extraordinario que seguramente no se repetirá nuevamente en el futuro.
+
+Si es consistente, la clave para tener un buen Dividend Yield es el precio al cual compraremos la acción.
+
+Dos cosas a considerar: atención especial a la consistencia de los dividendos y atención a cuando llegue una oportunidad de compra de aquellas empresas que entregan un Dividend Yield consistente.
+
+Un alto Dividend Yield es atractivo, pero es posible que sea a expensas del crecimiento de la empresa, o a muchas otras cosas. La tasa de reinverisón, por ejemplo.
+
+No se recomienda evaluar una acción basándose únicamente en el Dividend Yield ya que se pueden sacar conclusiones erróneas.
+
+Muchas empresas tienen un rendimiento muy alto porque sus acciones están cayendo.
+
+Foco en tu dividend yield. Esto se refiere a fijar el precio al que tu compraste la acción.
+
+Mucho ojo al evaluar empresas que tienen un rendimiento de dividendos superior al promedio. Hay que entender porque unas empresas entregan mayor dividendos que otras. El único argumento que debemos aceptar de la empresa para no reinvertir un % mayor de utilidades, es que nos digan que ese dinero va a rentar más en la empresa que en nuestro bolsillo.
+
+3. **Price to Earnings Ratio o Precio / Utilidad:**
+
+Es una de las herramientas de análisis de acciones más utilizadas para valorar acciones:
+
+    P/E = Precio de la acción / Utilidad por acción
+
+Se interpreta como "cuántos pesos hay que invertir para recibir $1 de las utilidades de esa empresa". Si una empresa cotiza a un múltiplo P/E de 20x, la interpretación es que un inversor está dispuesto a pagar $20 por $1 de las ganancias actuales. Esto significa, más o menos, que en 20 años el inversionista recuperaría recién lo invertido.
+
+El ratio Precio / Utilidad se fundamenta en el **Modelo de Crecimiento de Gordon** y utiliza variables fundamentales subyacentes, como el costo del capital y la tasa de crecimiento.
+
+El **Modelo de Crecimiento de Gordon** es un modelo que tiene en cuenta los dividendos para estimar el valor intrínseco de una acción, basado en una suposición de crecimiento de dividendos futuros.
+
+    Precio Accion = Dividendo * (1 + g) / (r - g)
+
+g: Tasa de crecimiento.
+r: Tasa de descuento.
+
+El ratio Precio / Utilidad (ó Precio/Ganancias ó P/E ó PER) se puede expresar utilizando la relación de pago (**Payout**):
+
+    (Precio de Accion)/(Utilidad por Accion) = Payout Ratio * (1 + g) / (r - g)
+
+    Payout Ratio = Dividendo por Accion / Utilidad por Accion
+
+El factor más relevante del PER es la tasa de crecimiento. Es esta tasa la que a nosotros como inversionistas nos tiene que apalancar más. La tasa de crecimiento es la que calculamos con el ROE, es la que nos apalanca la caja de flujos descontados, es lo que nos ayuda a proyectar los flujos futuros de la compañia. En ivnersiones lo más importante es la tasa de crecimiento, aparte de la capacidad de generar flujo de parte de los activos.
+
+Algunas consideraciones:
+
+1. Las empresas de mayor crecimiento tendrán índices P/E más altos que las empresas de menor crecimiento.
+2. Las empresas con necesidades de reinversión más bajas tendrán índices P/E más altos que las empresas con tasas de reinversión más altas. Las empresas ideales son aquellas de mucho crecimiento con baja reinversión, las que requieren menos reinversión de capital, las que crecen sin tener que pedirle al accionistas que pongan más plata. Empresas que crezcan, pero que te repartan lo que generan, estas son las mejores empresas para invertir. Las empresas que requieren poca reinversión son las fideales.
+
+Estas características son díficiles de mantener, ya que las empresas de alto crecimiento tienden a tener altas tasas de reinversión.
+
+En general, las empresas tencnologicas crecen mucho, reinvierten mucho y casi no reparten dividendos. Amazon, por ejemplo, crece mucho, pero tiene que reinvertir una cantidad impresionante de dinero para poder sostener este crecimiento. Si bien es bueno que una empresa crezca, hay un problema para el accionista que no ve ningun peso en dividendos.
+
+**Resumen:**
+
+* Un P/E alto sugiere que se espera un mayor *crecimiento de las ganancias* en el futuro en comparación con las empresas con un P/E más bajo.
+
+* Un P/E bajo puede indicar que una empresa puede estar actualmente *infravalorada*, o que le está yendo excepcionalmente bien.
+
+4. **Valor Libro (Book Value):**
+
+El **valor libro** es el *valor contable de los activos* de la empresa *menos* los pasivos de la empresa. Se podría considerar como el Patrimonio.
+
+El término viene de la práctica de registrar el valor de los activos al costo histórico original en los libros contables.
+
+También se puede considerar como el **valor neto de los activos (NAV)** de una empresa, calculado como **activos totales** *menos* **activos intangibles** *(patentes, goodwill)* y pasivos.
+
+El Book Value es una medida contable para representar los activos menos los pasivos de una compañía.
+
+El Valor Libro tiene dos usos principales:
+
+* Como el valor total que los accionistas recibirán teóricamente si la empresa fuera liquidada. Vendemos todos los activos y con esta plata le pagamos a los acreedores, nos quedaríamos con la diferencia.
+
+* Cuando se compara con el valor de mercado de la empresa, el valor contable puede indicar si una acción tiene un precio insuficiente o excesivo. Es el tipico ratio PER.
+
+Todo esto, **sí y solo sí**, los activos representan económicamente el valor en los libros contables. Esto signifca que si los activos de la compañía valen 10 en los libros, pero si nos dimos cuenta que 3 de esos son cuentas por cobrar de clientes que están muy complicados. Posiblemente esta plata no la vayamos a recuperar, ojo con esto, ojo con tomar este indicador a priori.
+
+5. **Precio / Valor Libro:**
+
+La relación **precio / valor libro** es útil para comparar empresas similares dentro de la misma industria, y cuando usan métodos contables iguales para la valoración de activos.
+
+* Algunas empresas registran sus activos a costos históricos, y otras "mark to market". Mark to market singifica que los activos en los libros contables son actualizados trimestre a trimestre al precio de mercado,y el valor se va actualizando en el tiempo. Costo histórico significa que se registra el valor de hace mucho tiempo atrás-
+
+**Mucho cuidado**, una relación **precio / valor libro** *alta* no necesariamente es una valoración alta (el precio está caro), y una relación **precio / valor libro** *baja* no necesariamente es una valoración en descuento. Mucho ojo con lo que dicen los libros contables, puede que cuando salga a liquidar algunos activos, nadie me dé un peso por ellos.
+
+Un ratio **precio / valor libro = 1** indica que el precio de mercado es exactamente igual a su valor contable.
+
+Para los value investor esto puede indicar una buena compra, ya que el precio de mercado generalmente está por sobre el valor libro.
+
+¿Por qué generalmente el precio de mercado está por sobre el valor libro?
+
+El valor libro no considera activos intangibles. Tampoco las habilidades de los trabajadores, ni como los activos generarán flujos en el tiempo. El valor de mercado, que tienen en cuenta todas estas cosas, generalmente es más alto.
