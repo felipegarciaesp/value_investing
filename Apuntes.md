@@ -764,4 +764,55 @@ Y si es muy complicado, pasar a la siguiente empresa. No nos calentemos la cabez
 
 #  Clase 11 - Margen de Seguridad y Mr Market
 
-El Margen de Seguridad es un principio en el que un inversor solo compra cuando el precio está significativamente por debajo de su **valor intrínseco**.
+El Margen de Seguridad es un principio en el que un inversor solo compra cuando el precio está significativamente por debajo de su **valor intrínseco**. El valor intrínseco no es más que traer a valor presente los flujos futuros que va a generar la empresa con sus activos, quitando la deuda y dividido por el número de acciones. De esta forma determinamos el valor intrínseco de una compañía y veremos si está sobre o debajo el precio de mercado.
+
+Cada inversor puede establecer un propio margen de seguridad de acuerdo con sus propias preferencias. Permite invertir con mínimo riesgo.
+
+El riesgo no es la variabilidad respecto al mercado, es la probabilidad real de perder.
+
+El margen de seguridad entrega un colchón contra los errores de cálculo. **No es garantía**, pero ayuda.
+
+**No compres una acción por sobre su valor intrínseco, espera a que baje por debajo de tu margen de seguridad.**
+
+Mr Market es un inversor muy impulsado por el pánico, la euforia y la apatía. Es una especia de maníaco-depresivo, que pasa del optimismo al pesimismo eufóricamente.
+
+**Invertir a largo plazo en base a fundamentos:**
+    - Tasas de crecimiento.
+    - Consistencia de la información.
+    - Rendimiento de la empresa.
+    - Reinversión.
+    - Políticas de crecimiento y dividendos.
+
+La idea es armar un portafolio con empresas que representen un muy buen compañero de vida. Si no encontramos nada para comprar aún, no salgamos a comprar cualquier cosa, **espera y ten paciencia**. Mr Market llegará asustado y eufórico a tocar la puerta.
+
+No dejar que Mr Market se aproveche de nosotros, sino que nosotros aprovechar las falencias de Mr Market. De esta forma comprar buenos activos que generen buenos flujos futuros para trearlos a valor presente y que nos generen rendimientos que inflen nuestro portafolio.
+
+#  Clase 12 - Descuento Holding
+
+Tenemos que aprender a valorizar holdings.
+
+Un holding es una empresa en donde sus principales activos son acciones de una o más compañías. Ejemplos: Almendral, Enel Chile, Antarchile, IAM, Quiñenco, Invercap, Vapores, etc.
+
+La idea es encontrar buenas asimetrías.
+
+Un Holding tiene participación mayoritaria en una o varias empresas subsidiarias, con el objetivo de controlar y coordinar sus actividades empresariales.
+
+El Holding actúa como una empresa matriz que pose una participación suficiente en las empresas subsidiarias para controlas sus decisiones estrategicas, operativas y financieras, pero permite que las subsidiarias operen de manera independiente.
+
+Invertir en un holding puede ser atractivo para quienes buscan diversificar sus inversiones a través de una cartera de empresas en diferentes sectores y mercados. Pero principalmente, por el descuento.
+
+Comprar los activos subyacentes por separado va a ser más caro que comprar el holding. A esto se refiere con el descuento. Comprar el holding se parece mucho a comprar un ETF (por la diversificación, pero la cantidad de empresas en un holding es menor que en un ETF).
+
+El **descuento holding** se resume en cuánto ahorra el inversionista al comprar el holding versus el activo subyacente.
+
+Visto de otra manera: cuánto es el ahorro al comprar la matriz con respecto al **Net Asset Value (NAV)** de sus activos subyacentes.
+
+Ejemplo de valoración de un holding en 5:30 de Clase 12.
+
+Uno de los aspectos relevantes que aumenta el descuento sobre el subyacente son los gastos de administración y directorio de la matriz.
+
+Esto es conocido como **Problema de Agencia** y se relaciona con la calidad de los gobiernos corporativos: el costo de un holding es el sueldo de la administración y la mesa directiva. 
+
+**Mientras más burocracia entre el subyacente y el accionista, más duda habrá sobre los flujos.**
+
+Investigar comportamiento de directores y trato a accionistas antes de comprar un holding. La idea como accionistas es recibir flujo, no tener que estar constantemente poniendo plata. Estudia hasta la última empresa que forma parte del holding. **Cuidado con la mugre debajo de la alfombra.**
