@@ -831,4 +831,20 @@ Tarea: ver CAPEX de CencoSud y darse cuenta de la cantidad de inversión para el
 
 JStuven recomienda depurar los resultados anormales, número muy grandes o muy bajos en relación a los años normales. JStuven normaliza los resultados, descartando los valores extremos. Hay empresas que en el pasado tienen comportamientos medios extraños que pueden ensuciar la muestra, está en nuestro poder considerarlo o no. En el caso De JStuven, para simular escenarios él utiliza como principal driver si van a vender más o menos.
 
-**QUEDÉ EN 45:40 DE SESION DE PREGUNTAS**
+El valor libro es el total del patrimonio dividido por la cantidad de acciones. Que una acción esté por debajo del valor libro, significa que está por debajo de la cantidad de dinero que los dueños pusieron en la mesa para echar a andar la empresa.
+
+Recordatorio: cuando uno compra una acción, está comprando el patrimonio de una empresa y los derechos que tiene este patrimonio sobre ciertos activos. Los pasivos son de los acreedores.
+
+JStuven trata de comparar los descuentos de efectivo con algún otro indicador. Por ejemplo, el valor libro con su valor libro histórico.
+
+El valor libro comparado con su precio de mercado puede ser un muy buen indicador para respaldar decisiones.
+
+JStuven dice que un ratio Precio/Valor Libro sobre 1 significa que está cara.
+
+JStuven ha dicho ue encuentra que Embotelladora Andina es extraordinaria, pero por lo mismo tiene un precio muy caro. Es filete, a precio de filete. Podría ser buena idea que empezaras a valorar esta empresa, a ver que tal. Espera a ver si aparece algún descuento.
+
+CCU publica el Análisis Razonado en donde explicita la depreciación y amortización. No todos lo hacen.
+
+En Chile, cuando un grupo controlador (Quiñenco por ejemplo) quiere salir a comprar acciones de sus empresas subyacentes, tiene tirar un hecho esencial a la CMF y avisar. Esto es por ley y monitoreado. Los grupos controladores no "traidean" sus acciones, por esos su dueños son tan ricos: son de la idea de invertir y cosechar los beneficios de su empresa. Un Paulmann o Luksic no salen a traidear sus acciones, si lo quieren hacer tienen que pedir permiso por medio de una **OPA** (si es que es un volumen de acciones muy grande). **Tarea: averiguar que es una OPA.**
+
+Cuando alguien que no es el controlador de un Holding vende sus participaciones, nos enteraremos en el próximo estado financiero.
