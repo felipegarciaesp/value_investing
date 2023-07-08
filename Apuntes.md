@@ -816,3 +816,19 @@ Esto es conocido como **Problema de Agencia** y se relaciona con la calidad de l
 **Mientras más burocracia entre el subyacente y el accionista, más duda habrá sobre los flujos.**
 
 Investigar comportamiento de directores y trato a accionistas antes de comprar un holding. La idea como accionistas es recibir flujo, no tener que estar constantemente poniendo plata. Estudia hasta la última empresa que forma parte del holding. **Cuidado con la mugre debajo de la alfombra.**
+
+# Sesión de Preguntas y Respuestas:
+
+Hay muchas formas de calcular la tasa de descuento.
+
+Deuda financiera de largo plazo es la cuenta Otros Pasivos Financieros No Corrientes. Pero jo que la cuenta Otros Pasivos Financieros es Deuda Financiera igual.
+
+El Market Cap es lo que hoy el mercado valoriza una empresa, que es distintos a lo que tú valorizarías.
+
+Metete en una empresa que puedas entender bien. Es bueno una empresa que sea predecible: los flujos se pueden estimar fácil. Una empresa predecible no es completamente cíclica y su input de venta no depende de un commodity, por ejemplo.
+
+Tarea: ver CAPEX de CencoSud y darse cuenta de la cantidad de inversión para el Costanera Center (2011, 2009).
+
+JStuven recomienda depurar los resultados anormales, número muy grandes o muy bajos en relación a los años normales. JStuven normaliza los resultados, descartando los valores extremos. Hay empresas que en el pasado tienen comportamientos medios extraños que pueden ensuciar la muestra, está en nuestro poder considerarlo o no. En el caso De JStuven, para simular escenarios él utiliza como principal driver si van a vender más o menos.
+
+**QUEDÉ EN 45:40 DE SESION DE PREGUNTAS**
