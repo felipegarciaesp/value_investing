@@ -845,6 +845,22 @@ JStuven ha dicho ue encuentra que Embotelladora Andina es extraordinaria, pero p
 
 CCU publica el Análisis Razonado en donde explicita la depreciación y amortización. No todos lo hacen.
 
-En Chile, cuando un grupo controlador (Quiñenco por ejemplo) quiere salir a comprar acciones de sus empresas subyacentes, tiene tirar un hecho esencial a la CMF y avisar. Esto es por ley y monitoreado. Los grupos controladores no "traidean" sus acciones, por esos su dueños son tan ricos: son de la idea de invertir y cosechar los beneficios de su empresa. Un Paulmann o Luksic no salen a traidear sus acciones, si lo quieren hacer tienen que pedir permiso por medio de una **OPA** (si es que es un volumen de acciones muy grande). **Tarea: averiguar que es una OPA.**
+En Chile, cuando un grupo controlador (Quiñenco por ejemplo) quiere salir a comprar acciones de sus empresas subyacentes, tiene tirar un hecho esencial a la CMF y avisar. Esto es por ley y monitoreado. Los grupos controladores no "traidean" sus acciones, por esos su dueños son tan ricos: son de la idea de invertir y cosechar los beneficios de su empresa. Un Paulmann o Luksic no salen a traidear sus acciones, si lo quieren hacer tienen que pedir permiso por medio de una **OPA** (si es que es un volumen de acciones muy grande). 
 
 Cuando alguien que no es el controlador de un Holding vende sus participaciones, nos enteraremos en el próximo estado financiero.
+
+Cuidado con los commodities, no sabes cuando terminó el ciclo bajista o si tocó techo. Al analizar una empresa de commodities, es necesario ver como se ha comportado en los períodos más malos. Las empresas disciplinadas aprovecharán los períodos de vacas gordas para hacer caja y hacer frente a los períodos de vacas flacas.
+
+**Retorno sobre el capital invertido:** métrica para determinar si la plata que se queda en la empresa realmente va a rentar más que en mi bolsillo. Toma el diferencial de utilidades retenidas y lo compara con las utilidades que se generan en el tiempo. Otra forma es tomar el ROE multiplicado por la tasa de reinversión, este resultado lo puedo comparar entre distintas empresas de una industria y ver en qué empresas es más alto. De esta forma puedo ver el rendimiento de las reinversiones y así ver en cuál empresa es más rentable reinvertir las utilidades.
+
+El retail es el que más sufre con las alzas de tasas del Banco Central. Esto es porque el consumo discrecional es el que más se ve afectado. Por otro lado, es el más beneficiado cuando bajan las tasas de interés (si es que no pasa otra cosa más, ojo con esto, no es tan lineal la relación).
+
+**TAREA: Investiga y practica lo que es el backtesting**
+
+**Family Office:** empresa de carácter privada que se crea con la intención de gestionar el patrimonio de una familia y asegurar su continuidad en el tiempo.
+
+**OPA:** Oferta Pública de Adquisición de Acciones. Es toda operación en la que una persona se dirige a los inversores para anunciar su deseo de comprar un determinado número de acciones de una sociedad anónima abierta a un determinado precio y en un plazo determinado. Una oferta pública de adquisición (OPA) de acciones u otros valores es una operación mercantil en la que una o varias sociedades (oferentes) realizan una oferta de compra de acciones a todos los accionistas de una sociedad admitida a cotización en un mercado oficial para, de esta forma, alcanzar una participación en el capital con derecho de voto de la sociedad (junto con la que ya se posea, en su caso) que sea significativa. El precio fijado en la OPA puede hacerse efectivo por el oferente mediante dinero, acciones o de forma mixta utilizando tanto acciones como dinero.
+
+**Split:** Para darle más liquidez a una acción, se hace una división de las acciones. Si yo tengo dos acciones y mediante un split se dividió cada acción por dos, entonces terminaría teniendo 4 acciones.
+
+**Reverse Split:** Lo inverso al split. Por ejemplo, si tengo 2 acciones y por reverse split termino teniendo 1. En este caso, esta acción valdria el doble de lo que antes valía 1 sola acción. Esto no repercute en la participación del patrimonio que posee el accionista, solo que ahora habrían menos acciones en circulación: **sería menos liquida**.
