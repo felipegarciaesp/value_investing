@@ -864,3 +864,15 @@ El retail es el que más sufre con las alzas de tasas del Banco Central. Esto es
 **Split:** Para darle más liquidez a una acción, se hace una división de las acciones. Si yo tengo dos acciones y mediante un split se dividió cada acción por dos, entonces terminaría teniendo 4 acciones.
 
 **Reverse Split:** Lo inverso al split. Por ejemplo, si tengo 2 acciones y por reverse split termino teniendo 1. En este caso, esta acción valdria el doble de lo que antes valía 1 sola acción. Esto no repercute en la participación del patrimonio que posee el accionista, solo que ahora habrían menos acciones en circulación: **sería menos liquida**.
+
+-----------------------------------------------------------------
+
+# Notas adicionales:
+
+Cuando se comprimen los márgenes, ya sea el Margen Bruto, el Margen EBITDA, el Margen Neto; siempr tiende a verse en el beneficio neto, que será menor a lo que uno desearía.
+
+Margen Bruto (%) = Utilidad Bruta / Ventas
+Margen EBITDA (%) = EBITDA / Ventas
+Margen Neto (%) = Utilidad Nneta / Ventas
+
+El informe Analisis Razonado tiene la información más entendible. Aca viene bien claro cuanto es la amortización y depreciación.
