@@ -865,7 +865,7 @@ El retail es el que más sufre con las alzas de tasas del Banco Central. Esto es
 
 **Reverse Split:** Lo inverso al split. Por ejemplo, si tengo 2 acciones y por reverse split termino teniendo 1. En este caso, esta acción valdria el doble de lo que antes valía 1 sola acción. Esto no repercute en la participación del patrimonio que posee el accionista, solo que ahora habrían menos acciones en circulación: **sería menos liquida**.
 
------------------------------------------------------------------
+**-----------------------------------------------------------------**
 
 # Notas adicionales:
 
@@ -876,3 +876,18 @@ Margen EBITDA (%) = EBITDA / Ventas
 Margen Neto (%) = Utilidad Nneta / Ventas
 
 El informe Analisis Razonado tiene la información más entendible. Aca viene bien claro cuanto es la amortización y depreciación.
+
+**-----------------------------------------------------------------**
+
+# Notas CFINRENTAS:
+
+Acontnuación, dejaré notas respecto al Fondo Independencia Rentas Inmobiliarias CFINRENTAS.
+
+Para ver si el precio de la acción es covneniente, fijarse en el NAV.
+
+```
+NAV (Net Asset Value) = (Activos del Fondo - Pasivos del Fondo) / N° Total de Acciones en Circulación
+
+NAV (Net Asset Value) = (Patrimonio del Fondo) / N° Total de Acciones en Circulación
+
+```
