@@ -891,3 +891,9 @@ NAV (Net Asset Value) = (Activos del Fondo - Pasivos del Fondo) / N° Total de A
 NAV (Net Asset Value) = (Patrimonio del Fondo) / N° Total de Acciones en Circulación
 
 ```
+
+**-----------------------------------------------------------------**
+
+# Notas de los Live:
+
+Nunca tomar el EBITDA para empresas que son intensas en Capex, como ENTEL.
